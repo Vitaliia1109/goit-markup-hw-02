@@ -12,8 +12,22 @@
   color: #2e2f42;
 }
 
-.contacts-list .contacts-link {
+.navigation-link {
   color: #2e2f42;
+  font-size: 16px;
+  font-family: "Roboto", sans-serif;
+  font-weight: 500;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+}
+
+.navigation-link:hover,
+.navigation-link:focus {
+  color: #404bbf;
+}
+
+.contacts-list .contacts-link {
+  color: #434455;
   font-size: 16px;
   font-family: "Roboto" sans-serif;
   font-weight: 500;
