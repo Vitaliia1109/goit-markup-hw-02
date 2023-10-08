@@ -73,7 +73,7 @@
 
 .hero-click:hover,
 .hero-click:focus {
-  color: #404bbf;
+  background-color: #404bbf;
 }
 
 .about-list-title {
